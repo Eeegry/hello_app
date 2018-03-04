@@ -1,0 +1,73 @@
+[2018-03-03T20:05:10+02:00] starting `/usr/lib/heroku/bin/heroku update --autoupdate` from /usr/lib/heroku/bin/heroku.js version
+ ▸    Cannot read property 'map' of undefined
+ ▸    Cannot read property 'map' of undefined
+ ▸    Cannot read property 'map' of undefined
+ ▸    update is not a heroku command.
+ ▸    Perhaps you meant update
+ ▸    Run heroku help for a list of available commands.
+[2018-03-04T16:29:00+02:00] starting `/usr/lib/heroku/bin/heroku update --autoupdate` from /usr/lib/heroku/bin/heroku.js --version
+waiting until 2018-03-04T15:29:00.000Z to update
+waiting until 2018-03-04T15:30:01.000Z to update
+waiting until 2018-03-04T15:30:01.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+waiting until 2018-03-04T15:31:30.000Z to update
+time to update
+ ▸    update the CLI with "sudo apt-get upgrade heroku"

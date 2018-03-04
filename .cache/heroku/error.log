@@ -1,0 +1,107 @@
+TypeError: Cannot read property 'map' of undefined
+    at CorePlugin.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/plugins/plugin.js:68:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+TypeError: Cannot read property 'map' of undefined
+    at CorePlugin.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/plugins/plugin.js:68:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+ ▸    Cannot read property 'map' of undefined
+ ▸    Cannot read property 'map' of undefined
+TypeError: Cannot read property 'map' of undefined
+    at Builtin.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/plugins/plugin.js:68:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+[2018-03-03T20:05:17+02:00]  ▸    Cannot read property 'map' of undefined
+TypeError: Cannot read property 'map' of undefined
+    at Builtin.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/plugins/plugin.js:68:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+TypeError: Cannot read property 'map' of undefined
+    at CorePlugin.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/plugins/plugin.js:68:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+[2018-03-03T20:05:17+02:00]  ▸    Cannot read property 'map' of undefined
+[2018-03-03T20:05:17+02:00]  ▸    Cannot read property 'map' of undefined
+TypeError: Cannot read property 'map' of undefined
+    at CorePlugin.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/plugins/plugin.js:68:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+[2018-03-03T20:05:17+02:00]  ▸    Cannot read property 'map' of undefined
+Error: version is not a heroku command.
+Perhaps you meant version
+Run heroku help for a list of available commands.
+    at Errors.error (/usr/lib/heroku/node_modules/cli-ux/lib/errors.js:62:23)
+    at action.pause (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:65:32)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-ux/lib/action/base.js:100:21)
+    at CLI.error (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:64:21)
+    at NotFound.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/not_found.js:27:30)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+[2018-03-03T20:05:18+02:00]  ▸    version is not a heroku command.
+ ▸    Perhaps you meant version
+ ▸    Run heroku help for a list of available commands.
+Error: update is not a heroku command.
+Perhaps you meant update
+Run heroku help for a list of available commands.
+    at Errors.error (/usr/lib/heroku/node_modules/cli-ux/lib/errors.js:62:23)
+    at action.pause (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:65:32)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-ux/lib/action/base.js:100:21)
+    at CLI.error (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:64:21)
+    at NotFound.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/not_found.js:27:30)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+[2018-03-03T20:05:18+02:00]  ▸    update is not a heroku command.
+ ▸    Perhaps you meant update
+ ▸    Run heroku help for a list of available commands.
+2018/03/03 20:42:15 Error: Error opening web browser.
+Error: Exited with code 3
+Manually visit https://arcane-island-84355.herokuapp.com/ in your browser.
+    at err (/usr/lib/heroku/node_modules/heroku-apps/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/usr/lib/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:219:13)
+    at ChildProcess.emit (events.js:127:13)
+    at maybeClose (internal/child_process.js:936:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+Error: opeb is not a heroku command.
+Perhaps you meant open
+Run heroku help for a list of available commands.
+    at Errors.error (/usr/lib/heroku/node_modules/cli-ux/lib/errors.js:62:23)
+    at action.pause (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:65:32)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-ux/lib/action/base.js:100:21)
+    at CLI.error (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:64:21)
+    at NotFound.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/not_found.js:27:30)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+ ▸    opeb is not a heroku command.
+ ▸    Perhaps you meant open
+ ▸    Run heroku help for a list of available commands.
+2018/03/04 14:31:33 Error: Error opening web browser.
+Error: Exited with code 3
+Manually visit https://sheltered-cliffs-75061.herokuapp.com/ in your browser.
+    at err (/usr/lib/heroku/node_modules/heroku-apps/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/usr/lib/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:219:13)
+    at ChildProcess.emit (events.js:127:13)
+    at maybeClose (internal/child_process.js:936:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+Error: update the CLI with "sudo apt-get upgrade heroku"
+    at Errors.error (/usr/lib/heroku/node_modules/cli-ux/lib/errors.js:62:23)
+    at Errors.warn (/usr/lib/heroku/node_modules/cli-ux/lib/errors.js:95:14)
+    at action.pause (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:59:32)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-ux/lib/action/base.js:100:21)
+    at CLI.warn (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:58:21)
+    at Update.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/commands/update.js:28:34)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:104:62)
+    at <anonymous>
+[2018-03-04T17:32:04+02:00]  ▸    update the CLI with "sudo apt-get upgrade heroku"
